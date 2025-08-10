@@ -1,0 +1,17 @@
+{
+    "Sales": {
+        "Average": 1500.25,
+        "Maximum": 1800.25,
+        "Minimum": 1200.5
+    },
+    "Profit": {
+        "Average": 400.42,
+        "Maximum": 500.5,
+        "Minimum": 300.75
+    },
+    "Expenses": {
+        "Average": 600.0,
+        "Maximum": 700.0,
+        "Minimum": 500.0
+    }
+}
