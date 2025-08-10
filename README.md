@@ -48,4 +48,6 @@ project sanket/ ├── dataset.csv ├── metrics.json ├── mean_char
    python generate_report.py
 
 ## OUTPUT
+[InsightReport_20250809_204958.pdf](https://github.com/user-attachments/files/21705564/InsightReport_20250809_204958.pdf)
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/3cf3854e-a2e6-4c34-a079-744942527cbb" />
 
